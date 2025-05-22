@@ -1,5 +1,4 @@
 # FPS-Game
-# FPS-Game
 
 ## Overview
 
@@ -40,17 +39,17 @@ To run and explore the FPS-Game project:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Arjun0034/FPS-Game.git
-**Open in Unity:**
+2. **Open in Unity:**
 Launch Unity Hub and add the cloned project folder.
 
-**Run the Game:**
+3. **Run the Game:**
 Open the main scene and press the Play button in Unity Editor.
 
-**Contribution**
+## Contribution
 As this project was developed for educational purposes, contributions are currently not being accepted. However, feedback and suggestions are welcome.
 
-**License**
+## License
 This project does not currently have a license.
 
-**Acknowledgments**
+## Acknowledgments
 Developed as part of a task assigned by Campus Coders.
