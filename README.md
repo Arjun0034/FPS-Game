@@ -24,13 +24,15 @@ The repository is organized as follows:
 Developed as part of a task assigned by Campus Coders.
 
 For more details, visit the GitHub repository.
+```text
 FPS-Game/
-    ├── Assets/             # Game assets: scripts, scenes, prefabs, etc.
-    ├── Packages/           # Unity package manager dependencies
-    ├── ProjectSettings/    # Unity project settings
-    ├── .gitignore          # Git ignore rules
-    ├── .vsconfig           # Visual Studio configuration
-    └── README.md           # Project documentation
+├── Assets/             # Game assets: scripts, scenes, prefabs, etc.
+├── Packages/           # Unity package manager dependencies
+├── ProjectSettings/    # Unity project settings
+├── .gitignore          # Git ignore rules
+├── .vsconfig           # Visual Studio configuration
+└── README.md           # Project documentation
+```
 
 ## Getting Started
 
